@@ -1,4 +1,4 @@
-<h1 align="center">Chrono</h1>
+<h1 align="center">Lunar</h1>
 <p align="center">An easy to use Fortnite lobby bot.</p>
 
 ## How to install
@@ -41,3 +41,8 @@ And press `ENTER`!
 
 ## Support
 For any support, create an issue.
+
+## Credits
+Thanks to [Oli](https://github.com/xMistt), [Brain](https://github.com/BigBrain21) and [TJ](https://github.com/TJ-23) for inspiration of the bot, [This Nils](https://github.com/ThisNils) and [Alex](https://github.com/AlexT2) for the creation of the library ([Fnbr](https://fnbr.js.org)).
+
+[![Run on Repl.it](https://repl.it/badge/github/Azlxy/Sirius)](https://repl.it/github/Azlxy/Sirius)
